@@ -1,8 +1,7 @@
-📊 Análise de Receita, Custo e Margem.
-Dashboard desenvolvido em Power BI para análise comercial.
+📊 Análise de Receita, Custo e Margem em Power BI.
 
 🎯 OBJETIVO
-Conseguir analisar a performance comercial através do dashboard.
+Analisar a performance comercial através do dashboard.
 
 🔧 FERRAMENTAS UTILIZADAS
 - Power BI
@@ -33,9 +32,9 @@ Conseguir analisar a performance comercial através do dashboard.
 - Monitorar margem por categoria e por grupo do produto, evitando concentração de rentabilidade em poucos itens.
 - Avaliar práticas dos vendedores com maior desempenho e investir em treinamento para equipe.
 
---
+
 📷 DASHBOARD
-<img width="700" height="720" alt="Analise_Receita_Custo_Margem" src="https://github.com/user-attachments/assets/3223b307-3b3d-4db9-b920-2ba4dfaf0561" />
+<img width="800" height="720" alt="Analise_Receita_Custo_Margem" src="https://github.com/user-attachments/assets/3223b307-3b3d-4db9-b920-2ba4dfaf0561" />
 
 📂 ESTRUTURA DE ARQUIVOS
 - Analise_Receita_Custo_Margem = Imagem do Dashboard
