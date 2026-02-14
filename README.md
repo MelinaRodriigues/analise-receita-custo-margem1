@@ -1,4 +1,4 @@
-## 📊 Análise de Receita, Custo e Margem em Power BI.
+# 📊 Análise de Receita, Custo e Margem em Power BI.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-blue)
@@ -30,12 +30,12 @@ Analisar a performance comercial através do dashboard.
 
 ## 💡 PRINCIPAIS INSIGHTS
 
-- Operação com 44% de margem.
+- A operação apresenta 44% de margem.
 - Evolução mensal da receita indica melhor desempenho no segundo semestre, o que sugere possível ação comercial ou sazonalidade.
 - A linha de alimentos apresenta maior média se comparada à bebida, no entanto o grupo de cachaça lidera o ranking do top 5 margem por grupo, mostrando alta rentabilidade na categoria de bebida.
 - Diferença de performance entre vendedores
 
-## 📌 RECOMENDAÇOES ESTRATÉGICAS
+## 📌 RECOMENDAÇÕES ESTRATÉGICAS
 
 - Priorizar produtos e grupos com maior margem
 - Investigar motivos para crescimento no segundo semestre, para replicar estratégias.
