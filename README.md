@@ -7,7 +7,7 @@
 
 ## 🎯 OBJETIVO
 
-Analisar a performance comercial através do dashboard.
+Analisar a performance comercial através do dashboard, identificar desempenho e oportunidades de melhoria.
 
 ## 🔧 FERRAMENTAS UTILIZADAS
 
@@ -30,7 +30,7 @@ Analisar a performance comercial através do dashboard.
 
 ## 💡 PRINCIPAIS INSIGHTS
 
-- A operação apresenta 44% de margem.
+- A operação apresenta 44% de margem, indicando estrutura saudável de rentabilidade.
 - Evolução mensal da receita indica melhor desempenho no segundo semestre, o que sugere possível ação comercial ou sazonalidade.
 - A linha de alimentos apresenta maior média se comparada à bebida, no entanto o grupo de cachaça lidera o ranking do top 5 margem por grupo, mostrando alta rentabilidade na categoria de bebida.
 - Diferença de performance entre vendedores
